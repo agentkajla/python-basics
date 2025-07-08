@@ -1,0 +1,39 @@
+
+
+Hey! I'm **Gauransh Kajla**, a 19-year-old passionate learner from India.  
+I first logged into GitHub as a curious kid back in 2021 when I was 15.  
+I was experimenting with small games and learning bit by bit, but I had no clue where to put my work.  
+Then high school exams hit, and like many others, I had to pause everything.
+
+
+In 2025, I’ve officially restarted my coding journey with **Python** as my first real step forward.  
+
+This time, I’m learning, building, uploading — and preparing for a **real future in tech**:  
+Freelancing, internships, and eventually a strong job.
+
+---
+
+## My Goals for this year
+
+- 🔹 **Python Projects** → Automation tools, games, and small apps  
+- 🔹 **HTML + CSS + JavaScript** → To build interactive websites  
+- 🔹 **Flask or Django** → To build backend systems and APIs  
+- 🔹 **React.js** (maybe) → For frontend development if I go full-stack  
+- 🔹 **Real-world Projects** → Build, upload, and showcase on GitHub  
+- 🔹 **Internships or Freelance Work** → Start earning from my skills  
+
+---
+
+## Qualifications
+
+- 🔹 **Currently pursuing**:  
+  Bachelor’s in Computer Applications (BCA)  
+  *(Government university in India, 1st Year — 2025)*
+
+- 🔹 **Completed High School** with:  
+  PCMB – Physics, Chemistry, Mathematics, Biology  
+  *
+
+---
+  
+Thanks for visiting this repo — more coming soon 💻🚀
